@@ -28,3 +28,11 @@
 * clone this repository by using this link : https://github.com/Chandramouliva/Netflix_clone.git
 * run npm init
 * start your react app
+
+## deployed link
+* https://netflix-clone-91580.web.app/
+
+## reference
+* CSS MDN
+* reactjs.org
+* clever programmer youtube tutorial for few functions
