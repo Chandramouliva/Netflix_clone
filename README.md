@@ -24,4 +24,7 @@
 
 ![Home_page](./Screenshots/Netflix_HomePage.png)
 
-
+## Setup
+* clone this repository by using this link : 
+* run npm init
+* start your react app
