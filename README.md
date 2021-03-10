@@ -1,6 +1,6 @@
 # Netflix-Clone
 <div>
-  <h4>Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.</h4>
+  <h4>Watch the trailers of movies & TV shows online which stream on Netflix</h4>
 </div>
 
 ## Languages and Tools:  
