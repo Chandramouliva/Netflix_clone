@@ -19,4 +19,4 @@
 ![SignUp_page](./Screenshots/SignUpPage.png)
 
 - Home Page
--[Home_page](./Screenshots/Netflix_HomePage.png)
+![Home_page](./Screenshots/Netflix_HomePage.png)
